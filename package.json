@@ -1,6 +1,6 @@
 {
   "name": "@joy-web/fis3",
-  "version": "3.4.39.1",
+  "version": "3.4.40",
   "description": "fis 3.0",
   "main": "index.js",
   "bin": {
